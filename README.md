@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <html>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdugaspar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)      
+     
 <section>
 <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
